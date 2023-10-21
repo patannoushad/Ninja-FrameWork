@@ -10,7 +10,7 @@ Examples:
 |     username			  |password 	|
 |amotoorcap13@gmail.com	  |12345		|
 |hijk@gmail.com     	  |1234567890	|
-|amotooricap3@gmail.com   |12345		|
+|amotooricap3@gmail.com   |123456		|
 
 Scenario: Login with invalid credentials
 Given User navigates to login page
